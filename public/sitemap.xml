@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<url>
+  <loc>https://assos.utc.fr/bde/sosassos/</loc>
+  <lastmod>2023-03-13T18:48:15+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://assos.utc.fr/bde/sosassos/post/create</loc>
+  <lastmod>2023-03-13T18:48:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://assos.utc.fr/bde/sosassos/search?type=all</loc>
+  <lastmod>2023-03-13T18:48:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://assos.utc.fr/bde/sosassos/post/23</loc>
+  <lastmod>2023-03-13T18:48:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://assos.utc.fr/bde/sosassos/search?assoc_pole=6e3cc240-3af5-11e9-ac2d-2f9c2cef5b73</loc>
+  <lastmod>2023-03-13T18:48:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://assos.utc.fr/bde/sosassos/search?assoc_pole=6e1f5580-3af5-11e9-a85f-31a81ca6ffa0</loc>
+  <lastmod>2023-03-13T18:48:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://assos.utc.fr/bde/sosassos/search?assoc_pole=6e2dc2f0-3af5-11e9-aed8-514dc3b25814</loc>
+  <lastmod>2023-03-13T18:48:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://assos.utc.fr/bde/sosassos/search?assoc_pole=6e4a9940-3af5-11e9-9498-63b959403b7a</loc>
+  <lastmod>2023-03-13T18:48:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
