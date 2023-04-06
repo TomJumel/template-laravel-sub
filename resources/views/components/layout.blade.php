@@ -3,10 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sos Assos</title>
-    <meta name="description" content="Sos Assos, la plateforme de l'UTC pour les associations étudiantes !">
+    <title>Laravel</title>
     <!-- google referrencement -->
-    <meta name="google-site-verification" content="eEvxu7m_gTU5QrB3aQ9WXy0QnOzYb590bHndzKiYSTk" />
     <meta name="csrf-token" content="{{ csrf_token() }}">
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     <!-- favicon -->
@@ -41,13 +39,6 @@
     @endif
     style=" font-family: 'Comfortaa', cursive;">
 <div id="page-container">
-    <x-navbar/>
-    <div id="content-wrap">
-        {{$slot}}
-    </div>
-    <div id="footer">
-        <x-footer/>
-    </div>
 </div>
 </body>
 </html>
